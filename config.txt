@@ -1,0 +1,5 @@
+{ 
+    "g": "ghggg", 
+    "mf": "https://pncnauiwp05afdsabs.site/hotupdate/", 
+    "p": "remote-asset" 
+}
